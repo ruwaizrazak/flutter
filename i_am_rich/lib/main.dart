@@ -6,7 +6,7 @@ void main() {
     MaterialApp(
       home: Center(
         child: Text('Hello World'),
-      ),
+      ), //Center helps in centering everything
     ),
   );
 }
